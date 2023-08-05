@@ -1,0 +1,32 @@
+.container{
+    margin-left: 440px;
+    margin-right: 400px;
+    margin-top: 200px;
+}
+
+body{
+    color: rgb(49, 57, 58);
+    background-color: #d1e8e2;
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1, h3{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+ul{
+    list-style-type: "> ";
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited { text-decoration: none;}
+
+.list-items{
+    font-family: 'Inconsolata', monospace;
+    font-size: smaller;
+}
+
